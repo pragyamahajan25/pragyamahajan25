@@ -1,7 +1,7 @@
 
 Hello! :)
 
-I'm currently a Master’s student in Mechatronics at the University of Siegen, with a Bachelor's degree in Mechanical Engineering. My aim is to contribute to advancements in Computer Vision, Deep Learning, and Machine Learning.
+I'm a Master’s graduate in Mechatronics at the University of Siegen, with a Bachelor's degree in Mechanical Engineering. My aim is to contribute to advancements in Computer Vision, Deep Learning, Machine Learning and Data Science.
 
 During my Master’s thesis at TRUMPF Laser-und Systemtechnik SE, I developed a Deep Learning pipeline using Mask R-CNN for measuring the machining process quality of 3D laser-cut geometries — from dataset creation in Blender to full ML lifecycle management and CI/CD integration with Docker and Azure DevOps.
 
